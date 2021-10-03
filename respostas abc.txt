@@ -11,6 +11,7 @@
 # else
 #     print(n2, é maior que n1)
 
+
 #2º resposta
 #hoje não podemos definir o genero como inválido
 # genero = int(input(Digite 1 se Feminino, 2 se for Masculino, ou 3 outros ))
